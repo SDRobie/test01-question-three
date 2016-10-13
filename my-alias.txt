@@ -1,0 +1,2 @@
+alias my-alias=mkdir ~/cupcakes && mkdir ~/cupcakes/are-not &&& touch ~/cupcakes/are-not/better-than-donuts.txt && echo "SPRINKLES!"'
+pwd -P
